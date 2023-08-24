@@ -1,0 +1,110 @@
+﻿<Window x:Class="ModuleTester.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ModuleTester"
+        mc:Ignorable="d"
+        Title="Selenium Automation Tester" Height="675" Width="875" Background="White"
+        FontFamily="Verdana" FontSize="16" ResizeMode="CanResizeWithGrip">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="101*"/>
+            <ColumnDefinition Width="774*"/>
+        </Grid.ColumnDefinitions>
+        <Border BorderBrush="Black" BorderThickness="2" Grid.ColumnSpan="2">
+            <Grid Margin="10, 10, 10, 10" Background="#008fd5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                    <RowDefinition Height="1*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="206*" />
+                    <ColumnDefinition Width="295*" />
+                    <ColumnDefinition Width="275*" />
+                    <ColumnDefinition Width="19*" />
+                    <ColumnDefinition Width="30*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Enter Prerequisites" FontFamily="Verdana" FontSize="20" Grid.ColumnSpan="2"
+                       Grid.Column="1" Grid.Row="0" Margin="131,10,0,5" HorizontalAlignment="Left"
+                       Foreground="white"/>
+
+                <TextBlock Text="URL:" VerticalAlignment="Center"
+                       Grid.Column="0" Grid.Row="1" 
+                       Margin="15,0,0,0" HorizontalAlignment="Left"
+                       Foreground="white"/>
+                <ComboBox Name="UrlComboBox"
+                      Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Margin="10,5,10,10"
+                          SelectedIndex="0" HorizontalContentAlignment ="Center"/>
+
+                <CheckBox Name="UseCookiesCheckBox" Content="Use cookies" Foreground="white"
+                      Grid.Column="2" Grid.Row="2" IsChecked="True" Margin="139,10,10,5" HorizontalAlignment="Right" />
+
+                <TextBlock Text="Username:" 
+                       Grid.Column="0" Grid.Row="2" 
+                       Margin="15,0,0,0" HorizontalAlignment="Left" Foreground="white" VerticalAlignment="Center"/>
+                <TextBox Name="UsernameTextBox" HorizontalContentAlignment="Center"
+                     Grid.Column="1" Grid.Row="2" Margin="10,10,10,10"/>
+
+                <TextBlock Text="Password:" 
+                       Grid.Column="0" Grid.Row="3" VerticalAlignment="Center"
+                       Margin="15,0,0,0" HorizontalAlignment="Left" Foreground="white" />
+                <PasswordBox Name="PasswordTextBox" HorizontalContentAlignment="Center"
+                Grid.Column="1" Grid.Row="3" Margin="10,10,10,10" />
+
+                <CheckBox Name="UseSSOCheckBox" Content="SSO login" Foreground="white"
+                          Grid.Column="2" Grid.Row="3" IsChecked="True" Margin="139,10,10,5" HorizontalAlignment="Right"/>
+
+                <TextBlock Text="Open browser window to the:"
+                       Grid.Column="0" Grid.Row="4" 
+                       Margin="15,55,0,0" HorizontalAlignment="Left" Foreground="white" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+                <ComboBox Name="DisplayLocationComboBox" 
+                      Grid.Column="1" Grid.Row="5" Margin="100,5,10,10" SelectedIndex="0"
+                          HorizontalContentAlignment ="Center" >
+                    <ComboBoxItem Content="None"/>
+                    <ComboBoxItem Content="Left"/>
+                    <ComboBoxItem Content="Right"/>
+                </ComboBox>
+                <TextBlock Text="of the main display"
+                       Grid.Column="2" Grid.Row="4" Margin="10,55,10,10" Foreground="white" Grid.RowSpan="2"/>
+
+                <Button Name="EnterPrerequisitesButton" Content="Enter"
+                    Grid.Column="0" Grid.Row="6" Margin="15, 5, 115, 15" Click="EnterPrerequisitesButton_Click"/>
+
+                <TextBlock Text="Module to test:"
+                       Grid.Column="0" Grid.Row="7" 
+                       Margin="10,10,0,10" HorizontalAlignment="Left" Foreground="white"/>
+                <ComboBox Name="ModuleToTestComboBox"
+                      Grid.Column="1" Grid.Row="7" Grid.ColumnSpan="2"
+                       Margin="10,5,0,10" IsEnabled="True"
+                          SelectedIndex="0" HorizontalContentAlignment ="Center"/>
+                <Button Name="RunTestButton" Content="Run Test" IsEnabled="False"
+                    Grid.Column="2" Grid.Row="8" Margin="175, 10, 10, 5" Click="RunTestButton_Click"/>
+
+                <TextBlock Text="Result:" 
+                       Grid.Column="0" Grid.Row="8" Margin="10,10,10,10" Foreground="white"/>
+                <RichTextBox Name="ResultTextBox" Margin="10,20,10,10" IsReadOnly="True"
+                         Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="3" 
+                         Grid.RowSpan="4" VerticalScrollBarVisibility="Auto"/>
+
+                <Button Name="CleanResultButton" Content="Clean" 
+                Grid.Column="0" Grid.Row="13" Margin="15, 5, 115, 10" Click="CleanResultButton_Click"/>
+
+                <Button Name="ExitButton" Content="Exit" 
+                Grid.Column="2" Grid.Row="13" Margin="175, 5, 10, 10" Click="ExitButton_Click"/>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

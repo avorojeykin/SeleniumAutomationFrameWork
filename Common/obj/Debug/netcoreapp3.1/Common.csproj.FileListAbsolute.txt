@@ -1,0 +1,34 @@
+C:\Code\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\AutoItX3.Assembly.dll
+C:\Code\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\AutoItX3.Assembly.xml
+C:\Code\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\AutoItX3.dll
+C:\Code\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\AutoItX3_x64.dll
+C:\Code\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\CommonSettings\Login2FASettings.json
+C:\Code\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\CommonSettings\LoginUsernamePasswordSettings.json
+C:\Code\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Code\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Code\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Code\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Code\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Code\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Code\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Code\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.csproj.CopyComplete
+C:\Code\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Code\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\AutoItX3.Assembly.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\AutoItX3.Assembly.xml
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\AutoItX3.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\AutoItX3_x64.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\CommonSettings\Login2FASettings.json
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\CommonSettings\LoginUsernamePasswordSettings.json
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.csproj.CopyComplete
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\Common\obj\Debug\netcoreapp3.1\Common.pdb

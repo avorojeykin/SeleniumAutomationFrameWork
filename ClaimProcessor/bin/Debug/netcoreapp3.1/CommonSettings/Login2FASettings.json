@@ -1,0 +1,8 @@
+{
+  "HomePageButtonId": "btnSsoLogin",
+  "EmailBoxId": "i0116",
+  "EmailSubmitButtonId": "idSIButton9",
+  "PasswordBoxId": "passwordInput",
+  "PasswordSubmitButtonId": "submitButton",
+  "StaySignInButtonId": "idSIButton9"
+}

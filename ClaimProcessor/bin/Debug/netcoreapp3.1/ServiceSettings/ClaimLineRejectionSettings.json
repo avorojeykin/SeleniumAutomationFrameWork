@@ -1,0 +1,47 @@
+{
+  "HomepageLoadId": "load",
+  "ProductionLabelText": "PRODUCTION",
+  "PageContentId": "bg-content",
+  "ManualClaimPortalText": "Manual claim portal",
+  "PageLoaderId": "page-loading",
+  "KebubMenuButtonTitleAttribute": "More Options",
+  "MenuContainerXPath": "//div[starts-with(@id,'menu_container')]",
+  "MenuOptionLoadClaimId": "fileT",
+  "MenuOptionResetClaimText": "RESET CLAIM",
+  "ProcessButtonText": "PROCESS",
+  "PopupMessageCssSelector": ".bg-notification",
+  "PopupClick": true,
+  "ClaimTotalAmountLabelCssSelector": "#claim-page > div.bg-page-header.bg-hdr-btns > div.bg-flexright > label",
+  "DialogWindow": {
+    "Id": "myDialogWindow",
+    "TitleId": "myDialogWindow_wnd_title",
+    "ErrorText": "Error",
+    "ConfirmationText": "Confirmation",
+    "ButtonOkId": "okButton",
+    "ButtonYesId": "yesButton",
+    "ButtonNoId": "noButton",
+    "ButtonCancelId": "cancelButton"
+  },
+  "ClaimRejectionDetails": {
+    "FileIdentifier": "_claimrejection_",
+    "ClaimOutputHeaderId": "claimOutputHeader",
+    "ClaimTotalAmountLabelCssSelector": "#claim-page > div.bg-page-header.bg-hdr-btns > div.bg-flexright > label",
+    "RejectionDispositions": [
+      "claim rejection",
+      "user claim rejection"
+    ]
+  },
+  "LineRejectionDetails": {
+    "FileIdentifier": "_linerejection_",
+    "TableAttributeName": "role",
+    "TableAttributeValue": "treegrid",
+    "MasterRowAttributeName": "role",
+    "MasterRowAttributeValue": "row",
+    "MasterRowLineNumberElementXPath": ".//td[2]/span",
+    "MasterRowAmountElementXPath": ".//td[27]/label",
+    "RejectionDispositions": [
+      "line rejection",
+      "user line rejection"
+    ]
+  }
+}

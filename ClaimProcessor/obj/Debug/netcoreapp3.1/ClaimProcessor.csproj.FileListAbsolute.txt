@@ -1,0 +1,44 @@
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\AutoItX3.Assembly.dll
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\AutoItX3.Assembly.xml
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\AutoItX3.dll
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\AutoItX3_x64.dll
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\CommonSettings\Login2FASettings.json
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\CommonSettings\LoginUsernamePasswordSettings.json
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\ServiceSettings\ClaimLineRejectionSettings.json
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\ServiceSettings\TotalClaimAmountSettings.json
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\ClaimProcessor.deps.json
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\ClaimProcessor.dll
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\ClaimProcessor.pdb
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\Common.dll
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.csproj.AssemblyReference.cache
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.AssemblyInfoInputs.cache
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.AssemblyInfo.cs
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.csproj.CoreCompileInputs.cache
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.csproj.CopyComplete
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.dll
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.pdb
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\ServiceSettings\ConfigurationSettings.json
+C:\Code\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.csproj.ResolveComReference.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\AutoItX3.Assembly.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\AutoItX3.Assembly.xml
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\AutoItX3.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\AutoItX3_x64.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\CommonSettings\Login2FASettings.json
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\CommonSettings\LoginUsernamePasswordSettings.json
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\ServiceSettings\ConfigurationSettings.json
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\ClaimProcessor.deps.json
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\ClaimProcessor.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\ClaimProcessor.pdb
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.csproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.csproj.ResolveComReference.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.AssemblyInfo.cs
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.csproj.CopyComplete
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.dll
+C:\Users\Artur\Desktop\Enterpernuer Folder\Coding Work\Qa.Automation\Qa.Automation\SourceUITester\ClaimProcessor\obj\Debug\netcoreapp3.1\ClaimProcessor.pdb

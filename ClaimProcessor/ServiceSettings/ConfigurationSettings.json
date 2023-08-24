@@ -1,0 +1,14 @@
+{
+  "HomepageLoadClass": "L3eUgb",
+  "PopupClick": true,
+  "DialogWindow": {
+    "Id": "myDialogWindow",
+    "TitleId": "myDialogWindow_wnd_title",
+    "ErrorText": "Error",
+    "ConfirmationText": "Confirmation",
+    "ButtonOkId": "okButton",
+    "ButtonYesId": "yesButton",
+    "ButtonNoId": "noButton",
+    "ButtonCancelId": "cancelButton"
+  }
+}
